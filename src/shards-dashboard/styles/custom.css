@@ -1,0 +1,50 @@
+.m-input-group {
+    color: #495057;
+    /* float: left; */
+}
+
+
+.m-input-group input{
+    color: #495057;
+    background-color: #fff;
+    border: 1px solid #e1e5eb;
+}
+
+.m-input-group .require {
+    color: #cc0033;
+}
+
+.error-message {
+    color: #cc0033;
+}
+  
+.m-error label {
+    color: #cc0033;
+}
+
+.m-error span {
+    color: #cc0033;
+}
+
+.m-error input {
+    background-color: #fce4e4;
+    border: 1px solid #cc0033;
+    outline: none;
+}
+  
+  
+.setting-tabs{
+    font-size: 16px;
+    font-weight: 400
+}
+
+
+.hight-light{
+	color: #007bff !important;
+    background-color: #fff !important;
+	/* border-color: #007bff !important; */
+}
+
+.nav-link{
+    cursor: pointer;
+}
